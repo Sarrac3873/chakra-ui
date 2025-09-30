@@ -84,7 +84,7 @@
     "@typescript-eslint/parser": "6.7.5",
     "dotenv": "16.3.1",
     "edit-json-file": "1.7.0",
-    "eslint": "8.51.0",
+    "eslint": "9.0.0",
     "eslint-config-airbnb-typescript": "17.1.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-config-react": "1.1.7",
@@ -106,7 +106,7 @@
     "npm-run-all": "^4.1.5",
     "ora": "7.0.1",
     "outdent": "^0.8.0",
-    "plop": "3.1.2",
+    "plop": "4.0.0",
     "prettier": "^2.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -116,7 +116,7 @@
     "tsx": "^3.12.7",
     "turbo": "1.10.12",
     "typescript": "^5.1.6",
-    "unbuild": "1.2.1",
+    "unbuild": "3.0.0",
     "vite": "^4.4.9"
   },
   "pnpm": {
